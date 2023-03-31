@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test-job-tomori:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_job_tomori_jar</output-path>
+    <root id="archive" name="test-job-tomori.jar">
+      <element id="module-output" name="test-job-tomori" />
+    </root>
+  </artifact>
+</component>
